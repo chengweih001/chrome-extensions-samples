@@ -9,4 +9,11 @@ Design Doc: [go/fugu-exploration-sprint-2023-CO2-meter-extension](https://docs.g
  ( T   )     /
 (((^_(((/(((_/
 
+      /`·.¸
+     /¸...¸`:·
+ ¸.·´  ¸   `·.¸.·´)
+: © ):´;      ¸  {
+ `·.¸ `·  ¸.·´\`·¸)
+     `\\´´\¸.·´
+     
 [TODO add the reason of this project and how this sample can help developers]
